@@ -3,7 +3,7 @@
 
 <h2> Hey there! I'm Mahin | MERN Stack Developer</h2>
 
-### 👉 &nbsp; Click to view My Portfolio: [Mahin-Hasan-Portfolio](https://voluble-shortbread-d88a9d.netlify.app/).
+### 👉 &nbsp; Click to view My Portfolio: [Mahin-Hasan-Portfolio](https://mahin-hasan.netlify.app/).
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
