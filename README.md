@@ -1,7 +1,7 @@
 <h2>💻 My Setup | Where lines of code come to life ✨</h2>
 <img src="https://i.ibb.co/xgyPCKM/setup2.jpg">
 
-<h2> Hey there! I'm Mahin | MERN Stack Developer</h2>
+<h2> Hey there! I'm Mahin | Full Stack Developer</h2>
 
 ### 👉 &nbsp; Click to view My Portfolio: [Mahin-Hasan-Portfolio](https://mahin-hasan.netlify.app/).
 
